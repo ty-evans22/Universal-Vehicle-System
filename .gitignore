@@ -7,3 +7,6 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 .vsconfig
+
+# Ignore the .vs folder which contains Visual Studio specific files
+.vs/*
